@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "78300297803",
+    "project_id": "twinstabook-4d859",
+    "storage_bucket": "twinstabook-4d859.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:78300297803:android:c7f0aea4af9b3f93c6ebce",
+        "android_client_info": {
+          "package_name": "com.example.twinstabook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "78300297803-54fs24s4l9jlkerbd2tajhl6qj4f4rol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkDDJo-2GvPVTjDIHMKwhI--bf3iMiuDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "78300297803-54fs24s4l9jlkerbd2tajhl6qj4f4rol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
